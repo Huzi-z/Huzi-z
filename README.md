@@ -12,4 +12,4 @@ Data Analyst focused on turning messy data into clear business decisions — Pyt
 
 **Tools:** Python · Pandas · Scikit-learn · SQL · Seaborn/Plotly · Google Colab
 
-📫 Reach me: [muhammadhuzi100@gmial.com]
+📫 Reach me: muhammadhuzi100@gmail.com
